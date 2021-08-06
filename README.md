@@ -1,7 +1,7 @@
  ![gif](https://media1.giphy.com/media/toXKzaJP3WIgM/giphy.gif?cid=ecf05e47zj9dihbhbieo6fnim8r5vtrt5wv8so8t7srp1twn&rid=giphy.gif&ct=g)
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 👯 &nbsp; I am looking to collaborate on any open source projects
 - 🎓 &nbsp; Studying Computer Sience at University of Arkansas
 
 
