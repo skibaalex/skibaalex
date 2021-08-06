@@ -9,11 +9,10 @@
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML_&_CSS-333333?style=flat&logo=HTML5)
-  ![TypeSctript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
+  ![TypeSctript](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
+  ![TypeSctript](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
