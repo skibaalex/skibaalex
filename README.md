@@ -1,4 +1,4 @@
- ![gif](https://media3.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif?cid=ecf05e47zo20x37yx79zlnh69gj10drt56z01qrh1kjt0294&rid=giphy.gif&ct=g)
+ ![gif](https://media1.giphy.com/media/toXKzaJP3WIgM/giphy.gif?cid=ecf05e47zj9dihbhbieo6fnim8r5vtrt5wv8so8t7srp1twn&rid=giphy.gif&ct=g)
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
@@ -28,4 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibaalex&layout=compact)](https://github.com/skibaalex)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibaalex&show_icons=true)
+
+
+
+
