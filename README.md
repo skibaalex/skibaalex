@@ -27,3 +27,5 @@
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibaalex&layout=compact)](https://github.com/skibaalex)
