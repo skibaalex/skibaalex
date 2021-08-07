@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)](
   https://redux.js.org/)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=Postgres&logoColor=white)
 <img src="https://media3.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif?cid=ecf05e47jm3ws7mqgi0djlpp6pvkhz9hk3sm0k4k36bb7vv5&rid=giphy.gif&ct=g" width="120" height="120" align="left">
 <center>
 Connect with me :
