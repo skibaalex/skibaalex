@@ -43,7 +43,7 @@
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibaalex&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://skiaalex.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://skibaalex.com)
 
 
 
