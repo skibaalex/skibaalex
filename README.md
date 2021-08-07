@@ -41,7 +41,9 @@
 ![Stack Overflow](https://img.shields.io/badge/-The_All_Mighty_🤣-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibaalex&show_icons=true)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibaalex&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://skiaalex.com)
 
 
 
